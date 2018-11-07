@@ -1,3 +1,8 @@
+//realizando cambios
+
+
+
+
 const rl = require('readline-sync');
 const patentesCientificas = require('./objetos/patentes').PatentesCientificas;
 const artRevista = require('./objetos/tiposArticulos/revista').ArticuloDeRevista;

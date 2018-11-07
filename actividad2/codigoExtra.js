@@ -1,4 +1,6 @@
 /*
+//realizando cambios
+
 const artCientifico = require('./objetos/articuloCientifico').articuloCientifico;
 var autores = ['hola', 'vale'];
 var articuloNuevo =  new artCientifico('La vida', autores, 20, 2, 3);
