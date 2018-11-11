@@ -1,6 +1,3 @@
-
-
-
 var a = "";
 let valor = 1;
 let flag = false;
