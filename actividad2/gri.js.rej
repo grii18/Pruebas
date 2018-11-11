@@ -1,0 +1,10 @@
+diff a/actividad2/gri.js b/actividad2/gri.js	(rejected hunks)
+@@ -1,7 +1,6 @@
+ //resolviendo bogh
+ //resuelto el bogh
+-//trabajando en la funcionalidad1
+-//funcionalidad1 terminada
++
+ 
+ var a = "";
+ let valor = 1;
