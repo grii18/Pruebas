@@ -1,5 +1,7 @@
 //resolviendo bogh
 //resuelto el bogh
+//trabajando en la funcionalidad1
+//funcionalidad1 terminada
 
 var a = "";
 let valor = 1;
