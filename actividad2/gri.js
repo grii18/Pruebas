@@ -1,5 +1,3 @@
-//resolviendo bogh
-//resuelto el bogh
 //trabajando en la funcionalidad1
 //funcionalidad1 terminada
 
